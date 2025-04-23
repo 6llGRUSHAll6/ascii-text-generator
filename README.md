@@ -17,3 +17,23 @@ A simple and stylish Python tool that transforms regular words into impressive b
    cd ascii-text-generator
    pip install pyfiglet
    python ascii.py
+
+
+# 🎨 Генератор ASCII-Текста
+
+Преобразуй любой текст в красивый ASCII-арт прямо в терминале!  
+Простой и стильный инструмент на Python, который превращает обычные слова в эффектные баннеры с помощью библиотеки `pyfiglet`.
+
+## 💡 Возможности
+
+- ✅ Удобен в использовании
+- 🎯 Минималистичный интерфейс
+
+## 🚀 Как начать
+
+1. Клонируй репозиторий:
+   ```bash
+   git clone https://github.com/6llGRUSHAll6/ascii-text-generator
+   cd ascii-text-generator
+   pip install pyfiglet
+   python ascii.py

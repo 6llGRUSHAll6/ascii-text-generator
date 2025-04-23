@@ -18,7 +18,7 @@
    git clone https://github.com/6llGRUSHAll6/ascii-text-generator
    cd ascii-text-generator
    pip install pyfiglet
-   python ascii.py
+   python ascii.py```
 
 ---
 # 🎨 ASCII Text Generator
@@ -38,4 +38,4 @@ A simple and stylish Python tool that transforms regular words into impressive b
    git clone https://github.com/6llGRUSHAll6/ascii-text-generator
    cd ascii-text-generator
    pip install pyfiglet
-   python ascii.py
+   python ascii.py```
